@@ -51,7 +51,7 @@
      1. Create a file named `main.py`.
      1. Import the `weather` module.
      2. Set a default filename to store the JSON data.
-     3. Declare a dictionary to hold the weather data.
+     3.21
      4. Implement a menu within a loop with following choices:
           1. Set data filename
                1. Prompt the user for a filename.
